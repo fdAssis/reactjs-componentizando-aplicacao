@@ -34,5 +34,4 @@ Essa é uma aplicação onde o principal objetivo é uma página para listagem d
 </p>
 
 ## :zap: Resultado
-
-<img src="https://res.cloudinary.com/dorzadlpq/video/upload/ac_none/v1633895351/Github/reactjs/fake_flix_cci4dg.gif" width=100% />
+<img src="https://res.cloudinary.com/dorzadlpq/image/upload/v1633898343/Github/reactjs/fakeflixx_yj4tgy.gif" width=100%/>
