@@ -103,4 +103,4 @@ Essa é uma aplicação onde o principal objetivo é uma página para listagem d
 </p>
 
 ## :zap: Resultado
-<img src="https://res.cloudinary.com/dorzadlpq/image/upload/v1633898343/Github/reactjs/fakeflixx_yj4tgy.gif" width=100%/>
+<img src="https://res.cloudinary.com/dorzadlpq/image/upload/v1635002007/Github/reactjs/fakeflix2_ej7pg2.gif" width=100%/>
